@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ismael! <br/><a href="https://github.com/ismaelo05">Machine Learning Engineer</a>, <a href="linkedin.com/in/tankeu-ismael">Django Backend Developper Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Ismael! <br/><a href="https://github.com/ismaelo05">Machine Learning Engineer</a>, <a href="linkedin.com/in/tankeu-ismael">Django Backend Developper</a>
 
 <h2>👨‍💻 Machine Learning Project:</h2>
 
